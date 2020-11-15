@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
+    "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "hello-libs-Debug-arm64-v8a": {
+      "artifactName": "hello-libs",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" hello-libs",
+      "abi": "arm64-v8a",
+      "output": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so",
+      "runtimeFiles": [
+        "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gmath/lib/arm64-v8a/libgmath.a",
+        "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gperf/lib/arm64-v8a/libgperf.so"
+      ]
+    }
+  }
+}

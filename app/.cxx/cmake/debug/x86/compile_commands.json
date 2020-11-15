@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/x86",
+  "command": "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dhello_libs_EXPORTS -I/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gmath/include -I/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gperf/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/hello-libs.dir/hello-libs.cpp.o -c /Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/hello-libs.cpp",
+  "file": "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/hello-libs.cpp"
+}
+]
