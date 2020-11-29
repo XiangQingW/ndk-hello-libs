@@ -1,0 +1,10 @@
+ninja: Entering directory `/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a'
+[1/4] Building C object /Users/wxq/tmp/armeabi-v7a/gmath/CMakeFiles/gmath.dir/src/gmath.c.o
+[2/4] Building C object /Users/wxq/tmp/armeabi-v7a/gperf/CMakeFiles/gperf.dir/src/gperf.c.o
+/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c:29:5: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+    printf("hello world");
+    ^
+/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c:29:5: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+1 warning generated.
+[3/4] Linking C shared library /Users/wxq/work/hello-libs/distribution/gperf/lib/armeabi-v7a/libgperf.so
+[4/4] Linking C static library /Users/wxq/work/hello-libs/distribution/gmath/lib/armeabi-v7a/libgmath.a

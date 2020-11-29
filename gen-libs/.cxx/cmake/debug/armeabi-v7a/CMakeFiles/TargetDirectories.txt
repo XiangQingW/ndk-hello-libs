@@ -1,0 +1,8 @@
+/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/wxq/tmp/armeabi-v7a/gmath/CMakeFiles/rebuild_cache.dir
+/Users/wxq/tmp/armeabi-v7a/gmath/CMakeFiles/edit_cache.dir
+/Users/wxq/tmp/armeabi-v7a/gmath/CMakeFiles/gmath.dir
+/Users/wxq/tmp/armeabi-v7a/gperf/CMakeFiles/rebuild_cache.dir
+/Users/wxq/tmp/armeabi-v7a/gperf/CMakeFiles/edit_cache.dir
+/Users/wxq/tmp/armeabi-v7a/gperf/CMakeFiles/gperf.dir

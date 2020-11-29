@@ -25,6 +25,10 @@
 #define GPERF_EXPORT
 #endif
 
+void foo() {
+    printf("hello world");
+}
+
 /*
  * return current ticks
  */
@@ -34,6 +38,8 @@ GPERF_EXPORT uint64_t GetTicks(void) {
 
     gettimeofday( &Time, NULL );
     cur_tick *= Time.tv_sec;
+
+    foo();
 
     return (cur_tick + Time.tv_usec);
 }

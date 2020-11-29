@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/CMakeLists.txt",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gmath/CMakeLists.txt",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gmath-Debug-x86_64": {
+      "artifactName": "gmath",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86_64\" gmath",
+      "abi": "x86_64",
+      "output": "/Users/wxq/work/hello-libs/distribution/gmath/lib/x86_64/libgmath.a",
+      "runtimeFiles": []
+    },
+    "gperf-Debug-x86_64": {
+      "artifactName": "gperf",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86_64\" gperf",
+      "abi": "x86_64",
+      "output": "/Users/wxq/work/hello-libs/distribution/gperf/lib/x86_64/libgperf.so",
+      "runtimeFiles": []
+    }
+  }
+}

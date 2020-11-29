@@ -1,0 +1,10 @@
+ninja: Entering directory `/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86_64'
+[1/4] Building C object /Users/wxq/tmp/x86_64/gmath/CMakeFiles/gmath.dir/src/gmath.c.o
+[2/4] Building C object /Users/wxq/tmp/x86_64/gperf/CMakeFiles/gperf.dir/src/gperf.c.o
+/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c:29:5: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+    printf("hello world");
+    ^
+/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c:29:5: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+1 warning generated.
+[3/4] Linking C shared library /Users/wxq/work/hello-libs/distribution/gperf/lib/x86_64/libgperf.so
+[4/4] Linking C static library /Users/wxq/work/hello-libs/distribution/gmath/lib/x86_64/libgmath.a

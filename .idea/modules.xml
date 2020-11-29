@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="hello-libs/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gen-libs/gen-libs.iml" filepath="$PROJECT_DIR$/.idea/modules/gen-libs/gen-libs.iml" group="hello-libs/gen-libs" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-libs.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-libs.iml" group="hello-libs" />
     </modules>
   </component>

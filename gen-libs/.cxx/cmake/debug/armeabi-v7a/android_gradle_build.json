@@ -1,0 +1,63 @@
+{
+  "stringTable": {
+    "0": "/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dgperf_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/CMakeLists.txt",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gmath/CMakeLists.txt",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gperf-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" gperf",
+      "buildType": "debug",
+      "toolchain": "472644809",
+      "abi": "armeabi-v7a",
+      "artifactName": "gperf",
+      "files": [
+        {
+          "src": "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/wxq/work/hello-libs/distribution/gperf/lib/armeabi-v7a/libgperf.so",
+      "runtimeFiles": []
+    },
+    "gmath-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" gmath",
+      "buildType": "debug",
+      "toolchain": "472644809",
+      "abi": "armeabi-v7a",
+      "artifactName": "gmath",
+      "files": [
+        {
+          "src": "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gmath/src/gmath.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/wxq/work/hello-libs/distribution/gmath/lib/armeabi-v7a/libgmath.a",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "472644809": {
+      "cCompilerExecutable": "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

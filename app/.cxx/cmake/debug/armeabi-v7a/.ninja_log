@@ -1,0 +1,15 @@
+# ninja log v5
+0	319	1606656444	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	a0527b727256404d
+319	351	1606656444	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	a26c74a5153224dd
+0	7	0	clean	7868a770857b33bb
+1	299	1606656479	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	a0527b727256404d
+299	328	1606656479	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	a26c74a5153224dd
+0	7	0	clean	7868a770857b33bb
+1	307	1606656548	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	a0527b727256404d
+307	376	1606656548	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	a26c74a5153224dd
+0	7	0	clean	7868a770857b33bb
+2	294	1606656675	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	a0527b727256404d
+294	323	1606656675	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	a26c74a5153224dd
+0	7	0	clean	7868a770857b33bb
+1	366	1606656745	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	a0527b727256404d
+366	397	1606656745	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	a26c74a5153224dd

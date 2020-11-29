@@ -1,0 +1,8 @@
+/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/wxq/tmp/x86/gmath/CMakeFiles/rebuild_cache.dir
+/Users/wxq/tmp/x86/gmath/CMakeFiles/edit_cache.dir
+/Users/wxq/tmp/x86/gmath/CMakeFiles/gmath.dir
+/Users/wxq/tmp/x86/gperf/CMakeFiles/rebuild_cache.dir
+/Users/wxq/tmp/x86/gperf/CMakeFiles/edit_cache.dir
+/Users/wxq/tmp/x86/gperf/CMakeFiles/gperf.dir

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+            "outputFile": "/Users/wxq/work/hello-libs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
             "map": [
                 {
                     "source": "/Users/wxq/.gradle/caches/transforms-2/files-2.1/0c91d46fdd28334f30b1556655513aca/appcompat-v7-28.0.0/res/values-th/values-th.xml",

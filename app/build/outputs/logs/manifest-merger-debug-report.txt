@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [:gen-libs] /Users/wxq/work/hello-libs/gen-libs/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/0c91d46fdd28334f30b1556655513aca/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/c88c593eadb3214baf9beaf10235fc22/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/19441647dde82811e0f8850f322a3735/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
@@ -30,25 +31,27 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wxq/.gradle/caches/tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wxq/.gradle/caches/transforms-2/files-2.1/aa31b21d37fa785af8be2696040c0070/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/wxq/.gradle/caches/transforms-2/files-2.1/3cdd09ad7aea26e45644d6466a6ff4d1/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/7312172b974aad26593142162affd51c/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [:gen-libs] /Users/wxq/work/hello-libs/gen-libs/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:gen-libs] /Users/wxq/work/hello-libs/gen-libs/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/ccbd3881d3e597a650ace942161206f5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/ccbd3881d3e597a650ace942161206f5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/c974b53ff623607867e85f86170dbc65/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
@@ -56,33 +59,35 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wxq/.gradle/
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/ccbd3881d3e597a650ace942161206f5/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.example.hellolibs.MainActivity
-ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:11:19-47
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:11:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+MERGED from [:gen-libs] /Users/wxq/work/hello-libs/gen-libs/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:gen-libs] /Users/wxq/work/hello-libs/gen-libs/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/0c91d46fdd28334f30b1556655513aca/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/0c91d46fdd28334f30b1556655513aca/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/c88c593eadb3214baf9beaf10235fc22/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
@@ -135,13 +140,13 @@ MERGED from [android.arch.core:runtime:1.1.1] /Users/wxq/.gradle/caches/transfor
 MERGED from [android.arch.core:runtime:1.1.1] /Users/wxq/.gradle/caches/transforms-2/files-2.1/3cdd09ad7aea26e45644d6466a6ff4d1/runtime-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/7312172b974aad26593142162affd51c/interpolator-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/wxq/.gradle/caches/transforms-2/files-2.1/7312172b974aad26593142162affd51c/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		ADDED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wxq/work/ndk-samples/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wxq/work/hello-libs/app/src/main/AndroidManifest.xml

@@ -1,3 +1,15 @@
 # ninja log v5
-0	351	1605417206	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	7cd0b4fb7ead295e
-352	391	1605417207	/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so	37bcad2f675d44d3
+0	268	1606656445	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	9276783944d83a62
+268	302	1606656445	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so	a669c7dae295834
+0	7	0	clean	7868a770857b33bb
+1	274	1606656479	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	9276783944d83a62
+274	303	1606656479	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so	a669c7dae295834
+0	8	0	clean	7868a770857b33bb
+0	302	1606656549	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	9276783944d83a62
+302	336	1606656549	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so	a669c7dae295834
+0	6	0	clean	7868a770857b33bb
+1	318	1606656675	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	9276783944d83a62
+318	355	1606656675	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so	a669c7dae295834
+0	8	0	clean	7868a770857b33bb
+1	296	1606656745	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	9276783944d83a62
+297	326	1606656745	/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so	a669c7dae295834

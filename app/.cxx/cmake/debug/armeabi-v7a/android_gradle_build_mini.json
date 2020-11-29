@@ -2,21 +2,21 @@
   "buildFiles": [
     "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
     "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
-    "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/CMakeLists.txt"
+    "/Users/wxq/work/hello-libs/app/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/armeabi-v7a\" clean"
   ],
-  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "hello-libs-Debug-armeabi-v7a": {
       "artifactName": "hello-libs",
-      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/armeabi-v7a\" hello-libs",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/armeabi-v7a\" hello-libs",
       "abi": "armeabi-v7a",
-      "output": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so",
+      "output": "/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so",
       "runtimeFiles": [
-        "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gmath/lib/armeabi-v7a/libgmath.a",
-        "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gperf/lib/armeabi-v7a/libgperf.so"
+        "/Users/wxq/work/hello-libs/app/src/main/cpp/../../../../distribution/gmath/lib/armeabi-v7a/libgmath.a",
+        "/Users/wxq/work/hello-libs/app/src/main/cpp/../../../../distribution/gperf/lib/armeabi-v7a/libgperf.so"
       ]
     }
   }

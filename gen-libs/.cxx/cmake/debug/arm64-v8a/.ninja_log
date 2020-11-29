@@ -1,0 +1,5 @@
+# ninja log v5
+0	38	1606656744	/Users/wxq/tmp/arm64-v8a/gmath/CMakeFiles/gmath.dir/src/gmath.c.o	438c8ff41b6a589e
+1	46	1606656744	/Users/wxq/tmp/arm64-v8a/gperf/CMakeFiles/gperf.dir/src/gperf.c.o	5f82479e9854fa97
+46	83	1606656744	/Users/wxq/work/hello-libs/distribution/gperf/lib/arm64-v8a/libgperf.so	7c8253bb9e5fb0b0
+39	85	1606656744	/Users/wxq/work/hello-libs/distribution/gmath/lib/arm64-v8a/libgmath.a	aac5b459f62896b6

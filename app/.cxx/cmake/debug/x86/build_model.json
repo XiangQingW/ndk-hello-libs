@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/x86",
-    "cmakeServerLogFile": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cxx/debug/x86",
+    "cmakeArtifactsBaseFolder": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/x86",
+    "cmakeServerLogFile": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/wxq/work/hello-libs/app/.cxx/cxx/debug/x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,13 +15,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/x86",
+      "buildRoot": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/x86",
       "cmakeToolchain": "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/prefab/x86/prefab"
+          "value": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/prefab/x86/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -57,7 +57,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/cmake/debug/obj/x86"
+          "value": "/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -78,14 +78,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/x86",
+  "cxxBuildFolder": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/x86",
+  "originalCxxBuildFolder": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/x86",
   "variant": {
     "buildSystemArgumentList": [
       "-DANDROID_STL\u003dc++_static"
@@ -103,12 +103,12 @@
         "ninjaExe": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
       "cmakeToolchainFile": "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx",
+      "cxxFolder": "/Users/wxq/work/hello-libs/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates",
-      "makeFile": "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/CMakeLists.txt",
-      "moduleBuildFile": "/Users/wxq/work/ndk-samples/hello-libs/app/build.gradle",
-      "moduleRootFolder": "/Users/wxq/work/ndk-samples/hello-libs/app",
+      "intermediatesFolder": "/Users/wxq/work/hello-libs/app/build/intermediates",
+      "makeFile": "/Users/wxq/work/hello-libs/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/Users/wxq/work/hello-libs/app/build.gradle",
+      "moduleRootFolder": "/Users/wxq/work/hello-libs/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -172,12 +172,12 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.2.6472646",
       "project": {
-        "compilerSettingsCacheFolder": "/Users/wxq/work/ndk-samples/hello-libs/.cxx",
-        "cxxFolder": "/Users/wxq/work/ndk-samples/hello-libs/.cxx",
+        "compilerSettingsCacheFolder": "/Users/wxq/work/hello-libs/.cxx",
+        "cxxFolder": "/Users/wxq/work/hello-libs/.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/Users/wxq/work/ndk-samples/hello-libs",
+        "rootBuildGradleFolder": "/Users/wxq/work/hello-libs",
         "sdkFolder": "/Users/wxq/Library/Android/sdk",
         "isPrefabEnabled": false
       },
@@ -194,7 +194,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/cmake/debug/obj",
+    "objFolder": "/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj",
     "variantName": "debug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -202,8 +202,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/prefab",
+    "prefabDirectory": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/prefab/x86"
+  "prefabFolder": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/prefab/x86"
 }

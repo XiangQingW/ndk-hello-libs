@@ -1,36 +1,36 @@
 {
   "stringTable": {
-    "0": "/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a",
-    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dhello_libs_EXPORTS -I/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gmath/include -I/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gperf/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
+    "0": "/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dhello_libs_EXPORTS -I/Users/wxq/work/hello-libs/app/src/main/cpp/../../../../distribution/gmath/include -I/Users/wxq/work/hello-libs/app/src/main/cpp/../../../../distribution/gperf/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
     "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
     "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
-    "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/CMakeLists.txt"
+    "/Users/wxq/work/hello-libs/app/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" clean"
+    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" clean"
   ],
-  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "hello-libs-Debug-arm64-v8a": {
-      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/ndk-samples/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" hello-libs",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/arm64-v8a\" hello-libs",
       "buildType": "debug",
       "toolchain": "1658751319",
       "abi": "arm64-v8a",
       "artifactName": "hello-libs",
       "files": [
         {
-          "src": "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/hello-libs.cpp",
+          "src": "/Users/wxq/work/hello-libs/app/src/main/cpp/hello-libs.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so",
+      "output": "/Users/wxq/work/hello-libs/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-libs.so",
       "runtimeFiles": [
-        "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gmath/lib/arm64-v8a/libgmath.a",
-        "/Users/wxq/work/ndk-samples/hello-libs/app/src/main/cpp/../../../../distribution/gperf/lib/arm64-v8a/libgperf.so"
+        "/Users/wxq/work/hello-libs/app/src/main/cpp/../../../../distribution/gmath/lib/arm64-v8a/libgmath.a",
+        "/Users/wxq/work/hello-libs/app/src/main/cpp/../../../../distribution/gperf/lib/arm64-v8a/libgperf.so"
       ]
     }
   },

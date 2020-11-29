@@ -9,16 +9,12 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fd54b7-095f-4f14-8aeb-aa1acfb26893" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hellolibs/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/hellolibs/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96fd54b7-095f-4f14-8aeb-aa1acfb26893" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="fe6667b5" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -47,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1605416575108" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1606656683795" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
@@ -140,9 +136,10 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state width="1987" height="294" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1605418643580" />
-    <state x="783" y="485" width="694" height="486" key="find.popup" timestamp="1605417532050">
-      <screen x="0" y="23" width="2560" height="1333" />
+    <state x="783" y="484" width="694" height="486" key="find.popup" timestamp="1606656649995">
+      <screen x="0" y="23" width="2560" height="1330" />
     </state>
+    <state x="783" y="484" width="694" height="486" key="find.popup/0.23.2560.1330@0.23.2560.1330" timestamp="1606656649995" />
     <state x="783" y="485" width="694" height="486" key="find.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1605417532050" />
   </component>
 </project>

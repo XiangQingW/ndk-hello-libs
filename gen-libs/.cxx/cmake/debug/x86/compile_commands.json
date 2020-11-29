@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86",
+  "command": "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o /Users/wxq/tmp/x86/gmath/CMakeFiles/gmath.dir/src/gmath.c.o   -c /Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gmath/src/gmath.c",
+  "file": "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gmath/src/gmath.c"
+},
+
+{
+  "directory": "/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/x86",
+  "command": "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dgperf_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o /Users/wxq/tmp/x86/gperf/CMakeFiles/gperf.dir/src/gperf.c.o   -c /Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c",
+  "file": "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/src/gperf.c"
+}
+]

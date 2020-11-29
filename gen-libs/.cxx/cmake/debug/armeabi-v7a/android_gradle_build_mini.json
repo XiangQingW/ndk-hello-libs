@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
+    "/Users/wxq/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gperf/CMakeLists.txt",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/gmath/CMakeLists.txt",
+    "/Users/wxq/work/hello-libs/gen-libs/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gperf-Debug-armeabi-v7a": {
+      "artifactName": "gperf",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" gperf",
+      "abi": "armeabi-v7a",
+      "output": "/Users/wxq/work/hello-libs/distribution/gperf/lib/armeabi-v7a/libgperf.so",
+      "runtimeFiles": []
+    },
+    "gmath-Debug-armeabi-v7a": {
+      "artifactName": "gmath",
+      "buildCommand": "/Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/wxq/work/hello-libs/gen-libs/.cxx/cmake/debug/armeabi-v7a\" gmath",
+      "abi": "armeabi-v7a",
+      "output": "/Users/wxq/work/hello-libs/distribution/gmath/lib/armeabi-v7a/libgmath.a",
+      "runtimeFiles": []
+    }
+  }
+}

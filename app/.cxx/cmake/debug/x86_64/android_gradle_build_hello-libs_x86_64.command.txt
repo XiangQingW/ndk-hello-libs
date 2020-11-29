@@ -1,0 +1,7 @@
+Executable : /Users/wxq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/wxq/work/hello-libs/app/.cxx/cmake/debug/x86_64
+hello-libs
+jvmArgs : 
+

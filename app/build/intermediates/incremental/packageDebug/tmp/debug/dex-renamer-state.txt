@@ -1,4 +1,4 @@
-#Sun Nov 15 13:41:56 CST 2020
-base.0=/Users/wxq/work/ndk-samples/hello-libs/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sun Nov 29 21:32:28 CST 2020
+base.0=/Users/wxq/work/hello-libs/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
